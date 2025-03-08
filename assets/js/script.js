@@ -5,9 +5,9 @@ let base = {
   // rtl direction for persian and arabic language |  راست چین کردن برای زبان فارسی و عربی
   rtl: 0,
   // name - اسم و فامیل
-  name: document.getElementById('name').innerHTML = "hamid shahsavani",
+  name: document.getElementById('name').innerHTML = "Hamid Shahsavani",
   // specialty - تخصص شما
-  specialty: document.getElementById('specialty').innerHTML = "front-end developer",
+  specialty: document.getElementById('specialty').innerHTML = "Frontend Developer",
   // profile image - تصویر چهره شما
   // sggested image size : 110px x 110px - سایز تصویر پیشنهادی : ۱۱۰ پیکسل در ۱۱۰ پیکسل;
   profileImage: document.getElementById('profile-image').src = "https://raw.githubusercontent.com/sys113/sys113.github.io/main/assets/img/face.jpg",
